@@ -1,0 +1,2 @@
+<FORM METHOD="get" ACTION="people_info_resident_result.php"><strong>국민 정보 조회(주민등록번호) :</strong> <INPUT TYPE ="text" NAME="Resident registration number" size=30 style="width:300px; height:30px;">
+      <INPUT TYPE="submit" VALUE="조회">
